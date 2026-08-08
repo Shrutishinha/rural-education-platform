@@ -1,4 +1,3 @@
-enhance it 
 
 ### Bridging the Education Gap Through Technology
 
