@@ -1,4 +1,4 @@
-shruti<div align="center">
+<div align="center">
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4CAF50,50:2E7D32,100:1B5E20&text=🌾%20Rural%20Education%20Platform&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Bridging%20the%20Education%20Gap%20Through%20Technology&descAlignY=58&descSize=18"/>
