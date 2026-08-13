@@ -13,7 +13,7 @@
 </p>
 
 </div>
-# 🌾 Rural Education Platform
+# 🌾 Rural Education Platforms
 
 ### Bridging the Education Gap Through Technology
 
