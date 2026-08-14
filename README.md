@@ -1,7 +1,7 @@
 <div align="center">
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4CAF50,50:2E7D32,100:1B5E20&text=🌾%20Rural%20Education%20Platform&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Bridging%20the%20Education%20Gap%20Through%20Technology&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4CAF50,50:2E7D32,100:1B5E20&text=🌾%20Rural%20Education%20Platform&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Bridging%20the%20Education%20Gap%20Through%20Technology&descAlignY=58&descSize=18"/>hi
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=2E7D32&center=true&vCenter=true&width=850&lines=Empowering+Rural+Students;Accessible+Learning+for+Everyone;Digital+Education+%7C+Interactive+Quizzes;Learn+Anytime+%7C+Anywhere;Education+Without+Boundaries"/>
 
