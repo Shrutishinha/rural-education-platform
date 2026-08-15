@@ -1,75 +1,64 @@
 <div align="center">
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4CAF50,50:2E7D32,100:1B5E20&text=🌾%20Rural%20Education%20Platform&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Bridging%20the%20Education%20Gap%20Through%20Technology&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:4CAF50,50:2E7D32,100:1B5E20&text=Rural%20Education%20Platform&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Bridging%20the%20Education%20Gap%20Through%20Technology&descAlignY=62&descSize=17"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=2E7D32&center=true&vCenter=true&width=850&lines=Empowering+Rural+Students;Accessible+Learning+for+Everyone;Digital+Education+%7C+Interactive+Quizzes;Learn+Anytime+%7C+Anywhere;Education+Without+Boundaries"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/yourusername/Rural-Education-Platform?style=for-the-badge&color=2E7D32">
-  <img src="https://img.shields.io/github/forks/yourusername/Rural-Education-Platform?style=for-the-badge&color=43A047">
-  <img src="https://img.shields.io/github/license/yourusername/Rural-Education-Platform?style=for-the-badge&color=66BB6A">
-  <img src="https://img.shields.io/badge/Made%20with-Flask-success?style=for-the-badge">
+<p>
+  <img src="https://img.shields.io/github/stars/yourusername/Rural-Education-Platform?style=flat-square"/>
+  <img src="https://img.shields.io/github/forks/yourusername/Rural-Education-Platform?style=flat-square"/>
+  <img src="https://img.shields.io/github/license/yourusername/Rural-Education-Platform?style=flat-square"/>
 </p>
 
 </div>
-# 🌾 Rural Education Platforms
-
-### Bridging the Education Gap Through Technology
-
-Empowering students in rural communities with accessible, interactive, and affordable digital learning resources.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</div>
 
 ---
 
-# 📖 Overview
+## Overview
 
-The **Rural Education Platform** is a web-based learning system designed to improve educational accessibility for students living in rural and remote areas.
+**Rural Education Platform** is a web-based learning platform designed to improve access to quality digital education for students in rural and underserved communities.
 
-The platform provides educational content, quizzes, progress tracking, and multilingual support to make quality learning available to everyone regardless of location.
+The platform provides a centralized environment for accessing learning resources, participating in interactive assessments, monitoring academic progress, and supporting communication between students and educators.
 
----
-
-# ✨ Features
-
-- 📚 Digital Learning Resources
-- 📝 Interactive Quizzes
-- 👨‍🏫 Teacher Dashboard
-- 👨‍🎓 Student Dashboard
-- 📊 Progress Tracking
-- 🌐 Multilingual Support
-- 📱 Responsive Design
-- 🔐 Secure Login & Authentication
-- 📥 Study Material Downloads
-- 📈 Performance Analytics
+The project focuses on making digital learning **accessible, inclusive, and scalable**, regardless of geographical location or available educational infrastructure.
 
 ---
 
-# 🛠 Tech Stack
+## Key Features
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-
-### Backend
-- Python
-- Flask
-
-### Database
-- SQLite / MySQL
+* **Digital Learning Resources** — Access organized educational content and study materials.
+* **Interactive Quizzes** — Evaluate knowledge through topic-based assessments.
+* **Student Dashboard** — Manage learning activities and monitor academic performance.
+* **Teacher Dashboard** — Manage educational resources and student activities.
+* **Progress Tracking** — Monitor learning progress and assessment results.
+* **Multilingual Support** — Improve accessibility for students from diverse linguistic backgrounds.
+* **Responsive Interface** — Designed for desktops, tablets, and mobile devices.
+* **Authentication** — Secure user login and access management.
+* **Study Material Downloads** — Download resources for offline reference.
+* **Performance Analytics** — Analyze student performance and learning outcomes.
 
 ---
 
-# 📂 Project Structure
+## Technology Stack
 
-```
+| Layer       | Technologies            |
+| ----------- | ----------------------- |
+| Frontend    | HTML5, CSS3, JavaScript |
+| Backend     | Python, Flask           |
+| Database    | SQLite / MySQL          |
+| Development | Git, GitHub             |
+
+---
+
+## Project Structure
+
+```text
 Rural-Education-Platform/
 │
 ├── static/
@@ -89,122 +78,166 @@ Rural-Education-Platform/
 
 ---
 
-# 🚀 Installation
+## Getting Started
 
-Clone the repository
+### Prerequisites
+
+Make sure the following are installed:
+
+* Python 3.x
+* pip
+* Git
+
+### Installation
+
+**1. Clone the repository**
 
 ```bash
 git clone https://github.com/yourusername/Rural-Education-Platform.git
 ```
 
-Move into the project directory
+**2. Navigate to the project directory**
 
 ```bash
 cd Rural-Education-Platform
 ```
 
-Install dependencies
+**3. Install dependencies**
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Run the application
+**4. Start the application**
 
 ```bash
 python app.py
 ```
 
-Open your browser
+**5. Open the application**
 
-```
+```text
 http://127.0.0.1:5000
 ```
 
 ---
 
-# 📸 Screenshots
+## Application Modules
 
-Add screenshots of:
+### Student Module
 
-- Home Page
-- Student Dashboard
-- Teacher Dashboard
-- Quiz Page
-- Progress Report
+* Access learning resources
+* Attempt quizzes
+* Download study materials
+* View assessment results
+* Track learning progress
 
----
+### Teacher Module
 
-# 🎯 Objectives
+* Manage educational resources
+* Create and manage assessments
+* Monitor student performance
+* Review learning progress
 
-- Improve digital education accessibility.
-- Support rural students with quality learning.
-- Enable teachers to manage educational resources.
-- Track student learning progress.
-- Promote inclusive education.
+### Administration
 
----
-
-# 🔮 Future Enhancements
-
-- AI-based Learning Assistant
-- Offline Learning Mode
-- Video Lectures
-- Voice-Based Learning
-- Live Classes
-- Gamification
-- Mobile Application
-- AI Quiz Generator
+* User authentication
+* Database management
+* Platform configuration
+* Performance monitoring
 
 ---
 
-# 🤝 Contributing
+## Screenshots
 
-Contributions are welcome!
+Add screenshots demonstrating the major application workflows.
 
-1. Fork the repository
-2. Create a feature branch
+Recommended screenshots:
+
+* Landing Page
+* Student Dashboard
+* Teacher Dashboard
+* Learning Resources
+* Quiz Interface
+* Progress & Performance Report
+
+---
+
+## Project Objectives
+
+The platform aims to:
+
+1. Improve access to digital education in rural communities.
+2. Provide structured and interactive learning resources.
+3. Enable teachers to efficiently manage educational content.
+4. Help students monitor their academic progress.
+5. Encourage technology-driven and inclusive education.
+6. Reduce barriers caused by geographical and infrastructural limitations.
+
+---
+
+## Future Enhancements
+
+Planned improvements include:
+
+* AI-powered learning assistant
+* AI-based quiz generation
+* Offline learning capabilities
+* Video-based learning
+* Voice-enabled learning
+* Live virtual classes
+* Gamification and achievement systems
+* Personalized learning recommendations
+* Dedicated mobile application
+* Advanced learning analytics
+
+---
+
+## Contributing
+
+Contributions, suggestions, and improvements are welcome.
+
+### Contribution Workflow
 
 ```bash
+# Fork the repository
+
+# Create a feature branch
 git checkout -b feature-name
-```
 
-3. Commit changes
+# Make your changes
 
-```bash
-git commit -m "Added new feature"
-```
+# Commit your changes
+git commit -m "Add new feature"
 
-4. Push to GitHub
-
-```bash
+# Push the branch
 git push origin feature-name
 ```
 
-5. Create a Pull Request
+Then open a **Pull Request** with a clear description of the changes.
 
 ---
 
-# 📄 License
+## License
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
 
 ---
 
-# 👩‍💻 Author
+## Author
 
 **Shruti Sinha**
 
-B.Tech CSE Student
+B.Tech — Computer Science & Engineering
 
-Passionate about Data Analytics, Machine Learning, and Full-Stack Development.
+Interested in **Data Analytics, Machine Learning, Artificial Intelligence, and Full-Stack Development**.
 
 ---
 
 <div align="center">
 
-⭐ If you found this project helpful, don't forget to Star the repository!
+### Building technology for accessible and inclusive education.
 
-Made with ❤️ to empower rural education.
+⭐ If you find this project useful, consider giving the repository a star.
 
 </div>
