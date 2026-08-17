@@ -1,182 +1,373 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4CAF50,50:2E7D32,100:1B5E20&text=Rural%20Education%20Platform&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Bridging%20the%20Education%20Gap%20Through%20Technology&descAlignY=63&descSize=17"/>
+# 🌾 Rural Education Platform
 
-<br>
+### Bridging the Education Gap Through Technology
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4CAF50,50:2E7D32,100:1B5E20&text=Rural%20Education%20Platform&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Accessible%20%7C%20Inclusive%20%7C%20Data-Driven%20Learning&descAlignY=63&descSize=16"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/github/stars/yourusername/Rural-Education-Platform?style=flat-square"/>
-  <img src="https://img.shields.io/github/forks/yourusername/Rural-Education-Platform?style=flat-square"/>
-  <img src="https://img.shields.io/github/license/yourusername/Rural-Education-Platform?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-Web%20Framework-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-Frontend-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-Interactive-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Database-SQLite%20%7C%20MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square"/>
+</p>
+
+<p>
+  <strong>A technology-driven learning platform designed to make quality digital education more accessible to rural and underserved communities.</strong>
 </p>
 
 </div>
 
 ---
 
-## Overview
+## 📌 Table of Contents
+
+* [Overview](#-overview)
+* [Problem Statement](#-problem-statement)
+* [Solution](#-solution)
+* [Key Highlights](#-key-highlights)
+* [Features](#-features)
+* [User Roles](#-user-roles)
+* [Technology Stack](#-technology-stack)
+* [System Architecture](#-system-architecture)
+* [Project Structure](#-project-structure)
+* [Core Modules](#-core-modules)
+* [Getting Started](#-getting-started)
+* [Screenshots](#-screenshots)
+* [Project Objectives](#-project-objectives)
+* [Benefits](#-benefits)
+* [Future Enhancements](#-future-enhancements)
+* [Development Roadmap](#-development-roadmap)
+* [Contributing](#-contributing)
+* [License](#-license)
+* [Author](#-author)
+
+---
+
+# 🌍 Overview
 
 **Rural Education Platform** is a web-based digital learning solution designed to improve access to quality education for students in rural and underserved communities.
 
-The platform provides students and educators with a centralized environment for accessing educational resources, conducting assessments, tracking academic performance, and managing learning activities.
+The platform provides a centralized environment where students can:
 
-The project focuses on creating an **accessible, inclusive, responsive, and scalable learning ecosystem** that can help reduce geographical and infrastructural barriers to education.
+* Access educational resources
+* Study organized learning materials
+* Attempt interactive quizzes
+* View assessment results
+* Track academic progress
 
----
+Teachers can:
 
-## Key Features
+* Manage educational resources
+* Create and manage assessments
+* Monitor student performance
+* Review learning progress
+* Use assessment data to understand learning trends
 
-### Digital Learning Resources
-
-* Centralized access to educational materials.
-* Subject- and topic-based resource organization.
-* Easy navigation between different learning resources.
-* Downloadable study materials for later reference.
-
-### Interactive Assessment System
-
-* Topic-based interactive quizzes.
-* Automated assessment and result generation.
-* Immediate performance feedback.
-* Score-based evaluation of student understanding.
-* Supports continuous learning assessment.
-
-### Student Dashboard
-
-* Personalized student learning interface.
-* Access to study materials and quizzes.
-* View assessment results and performance.
-* Track overall learning progress.
-* Centralized access to important academic activities.
-
-### Teacher Dashboard
-
-* Dedicated interface for educators.
-* Manage educational resources.
-* Create and manage quizzes and assessments.
-* Monitor student performance.
-* Review learning progress and assessment results.
-
-### Progress & Performance Analytics
-
-* Track quiz scores and learning activity.
-* Monitor academic performance over time.
-* Identify strengths and areas for improvement.
-* Provide useful insights for students and educators.
-* Support data-driven learning decisions.
-
-### Multilingual Learning Support
-
-* Designed to support students from diverse linguistic backgrounds.
-* Helps reduce language-related barriers.
-* Promotes inclusive and accessible digital learning.
-* Provides a foundation for future regional-language expansion.
-
-### Secure Authentication & Access Control
-
-* User login and authentication.
-* Separate access for students and teachers.
-* Role-based platform functionality.
-* Protects user-specific information and resources.
-
-### Responsive & Accessible Interface
-
-* Responsive design for desktop, tablet, and mobile devices.
-* Simple and intuitive navigation.
-* User-focused interface design.
-* Designed to support users with varying levels of technical familiarity.
-
-### Study Material Management
-
-* Centralized management of learning resources.
-* Upload and organize educational materials.
-* Download resources for offline reference.
-* Simplifies resource distribution between educators and students.
-
-### Data-Driven Learning Insights
-
-* Uses assessment data to identify performance trends.
-* Helps educators understand student progress.
-* Supports identification of learning gaps.
-* Provides a foundation for personalized learning strategies.
-
-### Scalable Application Architecture
-
-* Modular project structure.
-* Separation of frontend, backend, and database components.
-* Easy to extend with additional modules.
-* Designed to support future AI and analytics integrations.
-
-### AI-Ready Learning Ecosystem
-
-The platform architecture can be extended with intelligent educational capabilities such as:
-
-* AI-powered learning assistant.
-* Personalized learning recommendations.
-* AI-generated quizzes.
-* Automated question generation.
-* Intelligent performance analysis.
-* Adaptive learning pathways.
+The project focuses on building an **accessible, inclusive, responsive, and scalable learning ecosystem** that can help reduce geographical and infrastructural barriers to education.
 
 ---
 
-## Technology Stack
+# 🎯 Problem Statement
 
-| Category        | Technologies               |
+Students in rural and underserved communities may face challenges such as:
+
+* Limited access to quality educational resources
+* Geographical barriers
+* Lack of centralized learning platforms
+* Limited academic performance tracking
+* Language-related learning barriers
+* Difficulty accessing digital learning infrastructure
+
+Traditional learning environments may not always provide students and educators with centralized digital tools for learning, assessment, and progress monitoring.
+
+---
+
+# 💡 Solution
+
+The Rural Education Platform brings essential learning activities into a single digital ecosystem.
+
+### Students
+
+Students receive a centralized learning environment where they can access resources, participate in assessments, and monitor their progress.
+
+### Teachers
+
+Teachers receive tools to organize educational content, manage quizzes, and monitor student performance.
+
+### Data-Driven Learning
+
+Assessment results can be used to identify performance trends, learning gaps, strengths, and areas requiring improvement.
+
+### Future-Ready Architecture
+
+The platform is designed with an extensible architecture that can support future AI, analytics, multilingual, offline-learning, and mobile capabilities.
+
+---
+
+# ✨ Key Highlights
+
+| Area             | Capability                                 |
+| ---------------- | ------------------------------------------ |
+| 📚 Learning      | Centralized educational resources          |
+| 📝 Assessment    | Interactive topic-based quizzes            |
+| 👨‍🎓 Students   | Personalized learning dashboard            |
+| 👩‍🏫 Teachers   | Resource and assessment management         |
+| 📊 Analytics     | Performance and progress insights          |
+| 🌐 Accessibility | Responsive and inclusive interface         |
+| 🌍 Language      | Foundation for multilingual learning       |
+| 🔐 Security      | Authentication and role-based access       |
+| 🧩 Architecture  | Modular and extensible design              |
+| 🤖 AI Ready      | Foundation for future intelligent learning |
+
+---
+
+# 🚀 Features
+
+## 📚 Digital Learning Resources
+
+* Centralized access to educational materials
+* Subject- and topic-based organization
+* Simple resource navigation
+* Downloadable study materials
+* Centralized content distribution
+
+---
+
+## 📝 Interactive Assessment System
+
+* Topic-based quizzes
+* Automated assessment
+* Automatic result generation
+* Immediate performance feedback
+* Score-based evaluation
+* Continuous learning assessment
+
+---
+
+## 👨‍🎓 Student Dashboard
+
+Students have access to a dedicated learning interface containing:
+
+* Learning resources
+* Study materials
+* Interactive quizzes
+* Assessment results
+* Progress tracking
+* Academic activities
+
+---
+
+## 👩‍🏫 Teacher Dashboard
+
+Teachers can manage learning activities through a dedicated interface.
+
+### Capabilities
+
+* Educational resource management
+* Quiz creation and management
+* Student performance monitoring
+* Assessment result review
+* Learning progress monitoring
+
+---
+
+## 📊 Progress & Performance Analytics
+
+The platform supports data-driven learning insights by tracking:
+
+* Quiz scores
+* Learning activity
+* Performance trends
+* Strengths
+* Areas for improvement
+* Learning gaps
+
+These insights can help students and educators make better learning decisions.
+
+---
+
+## 🌐 Multilingual Learning Support
+
+The platform is designed with inclusive learning in mind.
+
+It provides a foundation for:
+
+* Diverse linguistic backgrounds
+* Reduced language barriers
+* Regional-language expansion
+* More accessible digital education
+
+---
+
+## 🔐 Secure Authentication & Access Control
+
+The platform includes an authentication layer supporting:
+
+* User login
+* User registration
+* Role-based access
+* Student-specific functionality
+* Teacher-specific functionality
+* Protected user information and resources
+
+---
+
+## 📱 Responsive & Accessible Interface
+
+The interface is designed to support:
+
+* Desktop devices
+* Tablets
+* Mobile devices
+* Simple navigation
+* User-focused interaction
+* Users with different levels of technical familiarity
+
+---
+
+## 📁 Study Material Management
+
+Teachers can manage learning resources through a centralized system.
+
+### Includes
+
+* Resource uploading
+* Resource organization
+* Educational content distribution
+* Downloadable materials
+* Centralized resource management
+
+---
+
+## 📈 Data-Driven Learning Insights
+
+Assessment data can be used to:
+
+* Identify performance trends
+* Monitor student progress
+* Detect learning gaps
+* Understand strengths and weaknesses
+* Support personalized learning strategies
+
+---
+
+## 🧩 Scalable Application Architecture
+
+The application follows a modular structure with separation between:
+
+* Frontend
+* Backend
+* Database
+* Authentication
+* Learning management
+* Assessment
+* Analytics
+
+This structure makes the platform easier to maintain and extend.
+
+---
+
+# 👥 User Roles
+
+## 👨‍🎓 Student
+
+```text
+Student
+   │
+   ├── Register / Login
+   │
+   ├── Access Learning Resources
+   │
+   ├── View Study Materials
+   │
+   ├── Attempt Quizzes
+   │
+   ├── View Results
+   │
+   └── Track Progress
+```
+
+## 👩‍🏫 Teacher
+
+```text
+Teacher
+   │
+   ├── Login
+   │
+   ├── Teacher Dashboard
+   │
+   ├── Manage Resources
+   │
+   ├── Create / Manage Quizzes
+   │
+   ├── Monitor Students
+   │
+   └── Analyze Performance
+```
+
+---
+
+# 🛠 Technology Stack
+
+| Layer           | Technology                 |
 | --------------- | -------------------------- |
 | Frontend        | HTML5, CSS3, JavaScript    |
 | Backend         | Python, Flask              |
 | Database        | SQLite / MySQL             |
 | Authentication  | Flask-based Authentication |
 | Version Control | Git, GitHub                |
-| Development     | VS Code                    |
+| IDE             | Visual Studio Code         |
 
 ---
 
-## System Architecture
+# 🏗 System Architecture
 
 ```text
-                    ┌─────────────────────┐
-                    │       Users         │
-                    │                     │
-                    │ Students / Teachers │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │    Web Interface    │
-                    │    HTML / CSS / JS   │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │   Flask Backend     │
-                    │                     │
-                    │ Authentication      │
-                    │ Learning Management │
-                    │ Quiz Management     │
-                    │ Analytics           │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │      Database       │
-                    │   SQLite / MySQL    │
-                    └─────────────────────┘
+                         ┌──────────────────────┐
+                         │        USERS         │
+                         │                      │
+                         │ Students / Teachers  │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                         ┌──────────────────────┐
+                         │    WEB INTERFACE     │
+                         │                      │
+                         │   HTML / CSS / JS    │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                         ┌──────────────────────┐
+                         │    FLASK BACKEND     │
+                         │                      │
+                         │ Authentication       │
+                         │ Learning Management  │
+                         │ Quiz Management      │
+                         │ Performance Analytics│
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                         ┌──────────────────────┐
+                         │       DATABASE       │
+                         │                      │
+                         │   SQLite / MySQL     │
+                         └──────────────────────┘
 ```
 
 ---
 
-## Project Structure
+# 📂 Project Structure
 
 ```text
 Rural-Education-Platform/
@@ -211,14 +402,14 @@ Rural-Education-Platform/
 
 ---
 
-## Core Modules
+# 🧩 Core Modules
 
-### Student Module
+## Student Module
 
 ```text
 Student
    │
-   ├── Login / Registration
+   ├── Authentication
    │
    ├── Learning Resources
    │
@@ -231,12 +422,12 @@ Student
    └── Progress Tracking
 ```
 
-### Teacher Module
+## Teacher Module
 
 ```text
 Teacher
    │
-   ├── Login
+   ├── Authentication
    │
    ├── Dashboard
    │
@@ -251,61 +442,63 @@ Teacher
 
 ---
 
-## Getting Started
+# ⚙️ Getting Started
 
-### Prerequisites
+## Prerequisites
 
-Install the following before running the project:
+Make sure the following are installed:
 
 * Python 3.x
 * pip
 * Git
 
-### 1. Clone the Repository
+---
+
+## 1. Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/Rural-Education-Platform.git
 ```
 
-### 2. Navigate to the Project
+## 2. Navigate to the Project
 
 ```bash
 cd Rural-Education-Platform
 ```
 
-### 3. Create a Virtual Environment
+## 3. Create a Virtual Environment
 
 ```bash
 python -m venv venv
 ```
 
-### 4. Activate the Virtual Environment
+## 4. Activate the Virtual Environment
 
-**Windows**
+### Windows
 
 ```bash
 venv\Scripts\activate
 ```
 
-**macOS / Linux**
+### macOS / Linux
 
 ```bash
 source venv/bin/activate
 ```
 
-### 5. Install Dependencies
+## 5. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 6. Run the Application
+## 6. Run the Application
 
 ```bash
 python app.py
 ```
 
-### 7. Open in Browser
+## 7. Open in Browser
 
 ```text
 http://127.0.0.1:5000
@@ -313,209 +506,302 @@ http://127.0.0.1:5000
 
 ---
 
-## Screenshots
+# 🖥 Screenshots
 
-Add screenshots demonstrating the main workflows of the application.
+> Add actual screenshots from the running application to make the repository more visually impressive.
 
-Recommended screenshots:
-
-| Screen             | Description                          |
-| ------------------ | ------------------------------------ |
-| Home Page          | Platform introduction and navigation |
-| Student Dashboard  | Student learning overview            |
-| Teacher Dashboard  | Teacher management interface         |
-| Learning Resources | Educational content                  |
-| Quiz Interface     | Interactive assessment               |
-| Progress Dashboard | Student performance analytics        |
-| Authentication     | Login / Registration interface       |
-
-Example:
+### 🏠 Home Page
 
 ```markdown
-## Screenshots
-
-### Home Page
-
 ![Home Page](screenshots/home.png)
+```
 
-### Student Dashboard
+### 👨‍🎓 Student Dashboard
 
+```markdown
 ![Student Dashboard](screenshots/student-dashboard.png)
+```
 
-### Quiz Interface
+### 👩‍🏫 Teacher Dashboard
 
+```markdown
+![Teacher Dashboard](screenshots/teacher-dashboard.png)
+```
+
+### 📝 Quiz Interface
+
+```markdown
 ![Quiz Interface](screenshots/quiz.png)
+```
 
-### Progress Analytics
+### 📊 Progress Analytics
 
-![Progress Analytics](screenshots/progress.png)
+```markdown
+![Progress Dashboard](screenshots/progress.png)
+```
+
+### 🔐 Authentication
+
+```markdown
+![Authentication](screenshots/authentication.png)
 ```
 
 ---
 
-## Project Objectives
+# 🎯 Project Objectives
 
 The primary objectives of the platform are to:
 
-* Improve access to quality digital education.
-* Reduce geographical barriers to learning.
-* Provide structured and interactive educational resources.
-* Enable teachers to efficiently manage learning content.
-* Help students monitor their academic performance.
-* Promote inclusive and technology-driven education.
-* Create a foundation for personalized digital learning.
-* Support the long-term integration of AI-powered educational tools.
+* Improve access to quality digital education
+* Reduce geographical barriers to learning
+* Provide structured educational resources
+* Enable interactive assessments
+* Help students monitor academic performance
+* Help teachers manage learning content efficiently
+* Promote inclusive and technology-driven education
+* Identify learning gaps through assessment data
+* Create a foundation for personalized learning
+* Support future AI-powered educational capabilities
 
 ---
 
-## Benefits
+# 🌱 Benefits
 
-### For Students
+## 👨‍🎓 For Students
 
-* Accessible learning resources.
-* Flexible learning environment.
-* Interactive assessments.
-* Progress monitoring.
-* Centralized study materials.
+* Accessible learning resources
+* Flexible learning environment
+* Interactive assessments
+* Progress monitoring
+* Centralized study materials
+* Potential for personalized learning
 
-### For Teachers
+## 👩‍🏫 For Teachers
 
-* Simplified resource management.
-* Digital assessment tools.
-* Student performance monitoring.
-* Centralized learning administration.
+* Simplified resource management
+* Digital assessment tools
+* Student performance monitoring
+* Centralized learning administration
+* Data-driven performance insights
 
-### For Communities
+## 🏘️ For Communities
 
-* Improved access to educational technology.
-* Reduced dependency on geographical location.
-* Support for digital literacy.
-* Greater opportunities for continuous learning.
-
----
-
-## Future Enhancements
-
-### Artificial Intelligence
-
-* AI-powered educational assistant.
-* Personalized learning recommendations.
-* AI-generated quizzes.
-* Automated question generation.
-* Intelligent student performance analysis.
-
-### Accessibility
-
-* Offline-first learning mode.
-* Regional language support.
-* Voice-based learning.
-* Text-to-speech functionality.
-* Speech-to-text interaction.
-
-### Engagement
-
-* Gamification.
-* Badges and achievements.
-* Leaderboards.
-* Learning streaks.
-* Personalized challenges.
-
-### Advanced Learning
-
-* Video lectures.
-* Live virtual classes.
-* Adaptive learning pathways.
-* Personalized course recommendations.
-* Advanced learning analytics.
-
-### Platform Expansion
-
-* Progressive Web App.
-* Android / iOS application.
-* Cloud deployment.
-* Scalable database infrastructure.
-* Notification and reminder system.
+* Improved access to educational technology
+* Reduced geographical dependency
+* Support for digital literacy
+* Greater opportunities for continuous learning
+* Foundation for technology-enabled education
 
 ---
 
-## Development Roadmap
+# 🤖 AI-Ready Learning Ecosystem
+
+The platform architecture can be extended with intelligent educational capabilities such as:
+
+### AI Learning Assistant
+
+An AI-powered assistant that can help students interact with learning content.
+
+### Personalized Recommendations
+
+Recommend learning resources based on student performance and progress.
+
+### AI Quiz Generation
+
+Generate practice questions from educational content.
+
+### Intelligent Performance Analysis
+
+Analyze assessment results to identify learning patterns and areas requiring attention.
+
+### Adaptive Learning
+
+Create learning pathways that adapt to individual student performance.
+
+> **Note:** These capabilities represent planned/future extensions of the platform rather than claims about the currently implemented system.
+
+---
+
+# 🔮 Future Enhancements
+
+## 🤖 Artificial Intelligence
+
+* AI-powered educational assistant
+* Personalized learning recommendations
+* AI-generated quizzes
+* Automated question generation
+* Intelligent student performance analysis
+
+## 🌐 Accessibility
+
+* Offline-first learning mode
+* Regional language support
+* Voice-based learning
+* Text-to-speech
+* Speech-to-text interaction
+
+## 🎮 Engagement
+
+* Gamification
+* Badges and achievements
+* Leaderboards
+* Learning streaks
+* Personalized challenges
+
+## 🎓 Advanced Learning
+
+* Video lectures
+* Live virtual classes
+* Adaptive learning pathways
+* Personalized course recommendations
+* Advanced learning analytics
+
+## 📱 Platform Expansion
+
+* Progressive Web App
+* Android / iOS application
+* Cloud deployment
+* Scalable database infrastructure
+* Notifications and reminders
+
+---
+
+# 🗺 Development Roadmap
 
 ```text
-Phase 1 ─ Core Platform
-   │
-   ├── Authentication
-   ├── Student Dashboard
-   ├── Teacher Dashboard
-   └── Learning Resources
-        │
-        ▼
-Phase 2 ─ Assessment
-   │
-   ├── Interactive Quizzes
-   ├── Automated Results
-   └── Progress Tracking
-        │
-        ▼
-Phase 3 ─ Analytics
-   │
-   ├── Performance Insights
-   ├── Learning Trends
-   └── Student Analytics
-        │
-        ▼
-Phase 4 ─ AI Integration
-   │
-   ├── AI Learning Assistant
-   ├── AI Quiz Generator
-   └── Personalized Learning
-        │
-        ▼
-Phase 5 ─ Platform Expansion
-   │
-   ├── Mobile Application
-   ├── Offline Learning
-   └── Cloud Deployment
+┌──────────────────────────────────────┐
+│ Phase 1 — CORE PLATFORM              │
+├──────────────────────────────────────┤
+│ ✓ Authentication                      │
+│ ✓ Student Dashboard                   │
+│ ✓ Teacher Dashboard                   │
+│ ✓ Learning Resources                  │
+└──────────────────┬───────────────────┘
+                   │
+                   ▼
+┌──────────────────────────────────────┐
+│ Phase 2 — ASSESSMENT                 │
+├──────────────────────────────────────┤
+│ ✓ Interactive Quizzes                 │
+│ ✓ Automated Results                   │
+│ ✓ Progress Tracking                   │
+└──────────────────┬───────────────────┘
+                   │
+                   ▼
+┌──────────────────────────────────────┐
+│ Phase 3 — ANALYTICS                  │
+├──────────────────────────────────────┤
+│ • Performance Insights               │
+│ • Learning Trends                    │
+│ • Student Analytics                  │
+└──────────────────┬───────────────────┘
+                   │
+                   ▼
+┌──────────────────────────────────────┐
+│ Phase 4 — AI INTEGRATION             │
+├──────────────────────────────────────┤
+│ • AI Learning Assistant              │
+│ • AI Quiz Generator                  │
+│ • Personalized Learning              │
+└──────────────────┬───────────────────┘
+                   │
+                   ▼
+┌──────────────────────────────────────┐
+│ Phase 5 — PLATFORM EXPANSION         │
+├──────────────────────────────────────┤
+│ • Mobile Application                 │
+│ • Offline Learning                   │
+│ • Cloud Deployment                   │
+└──────────────────────────────────────┘
 ```
 
 ---
 
-## Contributing
+# 🔐 Security Considerations
 
-Contributions and suggestions are welcome.
+The platform is designed around role-based access and authentication.
 
-### Contribution Workflow
+Future production deployment should additionally consider:
+
+* Secure password hashing
+* Environment variables for sensitive configuration
+* CSRF protection
+* Input validation
+* Secure session management
+* Database security
+* HTTPS deployment
+* Role-based authorization checks
+
+---
+
+# 🧪 Testing & Validation
+
+Recommended testing areas include:
+
+| Area           | Validation                          |
+| -------------- | ----------------------------------- |
+| Authentication | Login and registration workflows    |
+| Authorization  | Student/teacher access separation   |
+| Resources      | Upload, organization and retrieval  |
+| Quizzes        | Question submission and scoring     |
+| Dashboard      | Correct student/teacher information |
+| Analytics      | Accurate performance calculations   |
+| UI             | Responsive behavior across devices  |
+| Database       | Correct storage and retrieval       |
+
+---
+
+# 🤝 Contributing
+
+Contributions, suggestions, and improvements are welcome.
+
+## Contribution Workflow
+
+### 1. Create a Feature Branch
 
 ```bash
-# Create a feature branch
 git checkout -b feature-name
+```
 
-# Make your changes
+### 2. Make Your Changes
 
-# Stage changes
+Implement and test your changes locally.
+
+### 3. Stage Changes
+
+```bash
 git add .
+```
 
-# Commit changes
+### 4. Commit Changes
+
+```bash
 git commit -m "Add new feature"
+```
 
-# Push your branch
+### 5. Push Your Branch
+
+```bash
 git push origin feature-name
 ```
 
-Then create a Pull Request with a clear description of your changes.
+### 6. Create a Pull Request
+
+Open a Pull Request with a clear explanation of your changes.
 
 ---
 
-## License
+# 📄 License
 
 This project is licensed under the **MIT License**.
 
 ---
 
-## Author
+# 👩‍💻 Author
 
 <div align="center">
 
-### Shruti Sinha
+## Shruti Sinha
 
 **B.Tech — Computer Science & Engineering**
 
@@ -525,9 +811,13 @@ Data Analytics • Machine Learning • Artificial Intelligence • Full-Stack D
 
 ---
 
+# 🌾 Vision
+
 <div align="center">
 
-### Building technology for accessible and inclusive education.
+### Building technology for accessible, inclusive, and data-driven education.
+
+**Learn • Assess • Analyze • Improve**
 
 ⭐ If you find this project useful, consider giving the repository a star.
 
